@@ -1,0 +1,31 @@
+{
+  "name": "qqmusic",
+  "version": "1.0.0",
+  "description": "this is h5 musicpayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html5",
+    "less"
+  ],
+  "author": "zlz",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^8.5.0",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^3.5.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp-connect": "^5.5.0"
+  }
+}

@@ -1,0 +1,28 @@
+[{
+	"image":"../source/碳台风与旅人.png",
+	"audio":"../source/碳台风与旅人.mp3",
+	"song":"碳台风与旅人",
+	"album":"意外",
+	"singer":"薛之谦",
+	"duration":253,
+	"isLike":true
+},
+{
+	"image":"../source/似而不识.png",
+	"audio":"../source/似而不识.m4a",
+	"song":"似而不识",
+	"album":"小梦大半",
+	"singer":"陈粒",
+	"duration":297,
+	"isLike":false
+},
+{
+	"image":"../source/风吹成海.png",
+	"audio":"../source/风吹成海.mp3",
+	"song":"风吹成海",
+	"album":"风",
+	"singer":"陈粒",
+	"duration":297,
+	"isLike":false
+}
+]

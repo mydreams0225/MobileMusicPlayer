@@ -1,0 +1,1 @@
+var a=0;function add(n,r){return n+r}var b=0;function a(){return b}function b(){return a}
